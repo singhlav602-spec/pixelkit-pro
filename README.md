@@ -1,10 +1,24 @@
 # PixelKit Pro
 
-Free Image Compressor & JPG to PDF Converter
+Free Online Image Compressor, Image Resizer & JPG to PDF Converter
 
-- Compress images to 20KB, 50KB, 100KB
-- Resize images
+## Features
+
+- Compress Image to 20KB
+- Compress Image to 50KB
+- Compress Image to 100KB
+- Image Resizer
 - JPG to PDF Converter
-- 100% Local Processing
+- JPEG to PDF Converter
+- PNG to PDF Converter
+- 100% Private Processing
 - No Server Uploads
 - Mobile Friendly
+
+## Live Demo
+
+https://your-site-url
+
+## Keywords
+
+Image Compressor, Image Resizer, JPG to PDF Converter, JPEG to PDF Converter, Compress Image to 50KB, Compress Image to 100KB, PDF Converter Online
